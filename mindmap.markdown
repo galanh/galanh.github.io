@@ -13,3 +13,10 @@ permalink: /mindmap/
 
 You can find our tweets at [@Python_cursos](https://twitter.com/Python_cursos)
 
+<!---
+markdown dosen't find the local .pdf
+you can [download_pdf](https://galanh.github.io/pdfs/Curso_de_Mapas_mentales.pdf) here. 
+-->
+
+<a href="/pdfs/Curso_de_Mapas_mentales.pdf" class="image fit"  type="application/pdf" ><img src="/img/bandera.png" alt=""></a>
+
