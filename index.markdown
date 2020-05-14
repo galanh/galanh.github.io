@@ -4,6 +4,7 @@
 
 layout: home
 ---
+
 We are offering tutoring in the following subject areas 
 
 1. ACT/SAT Maths 
