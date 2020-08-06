@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Learning curve
+title: Cursos de Python
 email: galanh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- Telefono +506 71983420 San Jose, Costa Rica
+ Telefono +506 71983403 San Jose, Costa Rica
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Python_cursos

@@ -1,6 +1,6 @@
-# Learning curve
+# Cursos de Python
 
-This website is about learning Maths and Physics using software
+This website is about learning by coding
 
 ## Getting Started
 
