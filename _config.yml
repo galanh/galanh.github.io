@@ -28,7 +28,7 @@ twitter_username: Python_cursos
 github_username:  galanh
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
